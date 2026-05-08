@@ -1,6 +1,8 @@
 # Oil Quant Research Platform
-https://oil-quant-research-platform-hxtzkr4s9swv633pjbcqbf.streamlit.app
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oil-quant-research-platform-hxtzkr4s9swv633pjbcqbf.streamlit.app)
+
+**Live App:** https://oil-quant-research-platform-hxtzkr4s9swv633pjbcqbf.streamlit.app
 Professional Python and Streamlit platform for quantitative oil market research.
 
 This project analyzes the crude oil market through WTI and Brent prices, Brent-WTI spread, returns, volatility, drawdowns, futures curve structure, market drivers, Monte Carlo simulations, machine learning volatility forecasting, market regime detection, signal generation, backtesting, risk management and automated research reporting.
