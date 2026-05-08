@@ -1,0 +1,30 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Fichiers générés
+oil_quant_research_report.html
+
+# Données temporaires
+data/cache/
+data/temp/
